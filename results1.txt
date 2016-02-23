@@ -1,0 +1,17 @@
+for the data set : PETS09-S2L1
+
+Results
+
+P0 = -399.513465746585 
+P1 = 1.68079799860489
+
+Variance= 138.899394631459 
+
+for the data set :ETH-Sunnyday
+
+Results
+
+P0 = 19.0277416060443
+P1 =  0.228239688273922
+
+Variance=  16.723095077458
